@@ -3,13 +3,13 @@ This project provides a proof-of-concept for an AI-powered service that automate
 The service operates on a 4-step pipeline as outlined in the project specification:
 
 
-OCR & Raw Token Extraction 
+Step 1: OCR & Raw Token Extraction 
 
 
-Amount Normalization 
+Step 2: Amount Normalization 
 
 
-Contextual Classification 
+Step 3: Contextual Classification 
 
 
-Final Structured Output 
+Step 4: Final Structured Output 
